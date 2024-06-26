@@ -1,5 +1,4 @@
-# SQl-Music-Store-Data-Analysis-Project
-# SQL_Project_Music_Store_Analysis
+# Music Store Data Analysis using SQL
 
 ## Overview
 
